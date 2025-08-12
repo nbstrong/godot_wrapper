@@ -1,3 +1,5 @@
 [submodule "eng/godot"]
 	path = eng/godot
 	url = git@github.com:godotengine/godot.git
+[submodule "prjs/solar_system"]
+	path = prjs/solar_system
