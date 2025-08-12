@@ -3,3 +3,7 @@
 	url = git@github.com:godotengine/godot.git
 [submodule "prjs/solar_system"]
 	path = prjs/solar_system
+	url = git@github.com:nbstrong/solar_system.git
+[submodule "prjs/earth"]
+	path = prjs/earth
+	url = git@github.com:nbstrong/earth.git
